@@ -1,0 +1,2 @@
+- This is an old project I did by myself 3 years ago with great support from 2 experts from Shecodes Vietnam Tech Marathon.
+- The idea of this project was inspired by my own interest at that time: The aesthetic things on the Internet.
